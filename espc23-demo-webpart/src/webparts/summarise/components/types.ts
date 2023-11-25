@@ -1,0 +1,1 @@
+export type Sentence = { language: string, content: string };
