@@ -45,6 +45,7 @@ This sample is optimally compatible with the following environment configuration
 | Version | Date             | Comments        |
 | ------- | ---------------- | --------------- |
 | 1.0     | March 06, 2023 | Initial release |
+| 2.0     | November 25, 2023 | Initial release for ESPC with Azure OpenAI updates |
 
 ## Minimal Path to Awesome
 
